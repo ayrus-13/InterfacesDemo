@@ -14,7 +14,7 @@ public class Demo {
 		System.out.println(MyInterface.a);
 		mc.display();
 		System.out.println("good day");
-		
+		System.out.println("or be like venky");
 
 	}
 
